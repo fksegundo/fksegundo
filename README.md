@@ -3,6 +3,8 @@
 Backend Engineer @ Stone
 Focused on **.NET, distributed systems and data-intensive applications**
 
+**Focused on performance, scalability and cost-efficiency in data systems**
+
 ## 🧠 About me
 
 * Software Engineer with **7+ years of experience** building scalable and high-performance systems 
