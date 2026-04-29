@@ -23,7 +23,6 @@ Focused on **.NET, distributed systems and data-intensive applications**
 ## 🚧 What I'm doing
 
 * Improving performance and cost-efficiency in data systems
-* Exploring **Delta Lake ecosystem (delta-rs)**
 * Building experiments in Rust to better understand low-level systems
 
 ## 📂 Public projects
